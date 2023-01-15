@@ -1,0 +1,22 @@
+{
+  "name": "Anima",
+  "version": "0.0.1",
+  "description": "Permisionless manga funding platform",
+  "main": "index.js",
+  "authors": {
+    "name": "hankoc",
+    "email": "hankoc@onchainfactory.com"
+  },
+  "repository": "https://github.com/Project-anima",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "vue-cli": "^2.9.6"
+  }
+}
