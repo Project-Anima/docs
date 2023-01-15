@@ -10,13 +10,14 @@
   "repository": "https://github.com/Project-anima",
   "scripts": {
     "dev": "vuepress dev src",
-    "docs:build": "vuepress build src"
+    "src:build": "vuepress build src"
   },
   "license": "MIT",
   "devDependencies": {
     "vuepress": "^1.5.3"
   },
   "dependencies": {
-    "vue-cli": "^2.9.6"
+    "vue-cli": "^2.9.6",
+    "yarn": "^1.22.19"
   }
 }
