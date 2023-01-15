@@ -10,7 +10,7 @@
   "repository": "https://github.com/Project-anima",
   "scripts": {
     "dev": "vuepress dev src",
-    "docs:build": "npm run build"
+    "docs:build": "vuepress build"
   },
   "license": "MIT",
   "devDependencies": {
